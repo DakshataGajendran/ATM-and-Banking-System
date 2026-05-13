@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212223240021
+# Name: Dakshata G
+# Date: 13-05-26
 
 
 # AIM:
@@ -30,6 +30,30 @@ To develop the ATM and Banking System using Star UML
 
 
 # UML DIAGRAMS
+## CLASS DIAGRAM
+![EX1 ClassDiagram](https://github.com/user-attachments/assets/7938b2d0-cc26-48cc-86f8-154765a6d1fb)
+
+
+## USECASE DIAGRAM
+![EX1 UseCaseDiagram](https://github.com/user-attachments/assets/de0700c6-0adb-41c4-9196-6fc2dcd555d8)
+
+
+## ACTIVITY DIAGRAM
+
+![EX1 Activity Diagram](https://github.com/user-attachments/assets/a185ea12-8ef7-44dd-9700-964d91f075d5)
+
+## PACKAGE DIAGRAM
+![EX1 Package Diagram](https://github.com/user-attachments/assets/1138088f-b69d-4afa-89fd-d141f5f84f62)
+
+
+## SEQUENCE DIAGRAM
+![EX1 Sequence Diagram](https://github.com/user-attachments/assets/e676fcc5-4202-4533-824b-65c1bda4f973)
+
+
+## COMMUNICATION DIAGRAM
+
+![EX1 Communication Diagram](https://github.com/user-attachments/assets/6763c224-82a1-434c-919e-031d263ec65e)
+
 
 # USE CASE DIAGRAM
 
